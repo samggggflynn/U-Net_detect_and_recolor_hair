@@ -6,6 +6,7 @@
 运行web端服务:python3 web_api_hair_recolor.py
 
 打开浏览器:
+
 http://127.0.0.1:5000/hair_recolor/upload
 
 http://127.0.0.1:5000/hair_recolor/upload/银色
