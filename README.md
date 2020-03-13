@@ -7,7 +7,9 @@
 
 打开浏览器:
 http://127.0.0.1:5000/hair_recolor/upload
+
 http://127.0.0.1:5000/hair_recolor/upload/银色
+
 http://127.0.0.1:5000/hair_recolor/upload/20,30,60  
 
 > 注：20,30,60为对应RGB值
