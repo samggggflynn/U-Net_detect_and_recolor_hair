@@ -1,5 +1,6 @@
 # U-Net发型分割及染发
 
+支持16进制、10进制的RGB值赋值操作
 
 训练好的模型:src/weights.002.h5或src/weights.005.h5
 
