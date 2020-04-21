@@ -4,7 +4,7 @@
 
 训练好的模型:src/weights.002.h5或src/weights.005.h5
 
-运行web端服务:python3 web_api_hair_recolor.py
+运行web端服务:在src目录下运行`python3 web_api_hair_recolor.py`
 
 打开浏览器:
 
